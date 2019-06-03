@@ -1,2 +1,8 @@
-"Key","Value"
-"",""
+Key,Value
+AccessToken,
+TopicToInclude,
+TopicToInclude,
+TopicToSkip,
+TopicToSkip,
+GitHubUsername,
+LocalRepoLocation,
