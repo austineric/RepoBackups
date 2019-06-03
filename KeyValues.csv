@@ -1,8 +1,5 @@
 Key,Value
 AccessToken,
 TopicToInclude,
-TopicToInclude,
-TopicToSkip,
-TopicToSkip,
 GitHubUsername,
-LocalRepoLocation,
+RepoBackupLocation,
